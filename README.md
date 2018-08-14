@@ -21,6 +21,8 @@ Now Open CMD and write
 
 java -jar jenkins.war --httpPort=8088
 
+ScreenShots order.:From bottom to top.
+
 ![screenshot 47](https://user-images.githubusercontent.com/15280792/44101516-3ffa7d18-a005-11e8-8a8a-a02bffbfa1c5.png)
 ![screenshot 48](https://user-images.githubusercontent.com/15280792/44101517-402f31a2-a005-11e8-99fb-239691011db6.png)
 ![screenshot 49](https://user-images.githubusercontent.com/15280792/44101519-4067721a-a005-11e8-8490-6c9afb494282.png)
