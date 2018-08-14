@@ -3,12 +3,12 @@ jenkins-installation-steps.
 
 ##Open Console/Command line --> Go to your Jenkins installation directory. Execute the following commands respectively:
 
-##to stop:
+#to stop:
 jenkins.exe stop
 
-##to start:
+#to start:
 jenkins.exe start
 
-##to restart:
+#to restart:
 jenkins.exe restart
 
